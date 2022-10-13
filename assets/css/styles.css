@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Montserrat:wght@900&family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Poppins:wght@400;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+/*
+font-family: 'DM Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+body {
+  font-family: 'Open Sans', sans-serif ;
+}
+
+
+h1, h2 , h3 , h4 , h5 , h6 {
+  font-family: 'Poppins', sans-serif;
+}
